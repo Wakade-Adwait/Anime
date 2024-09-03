@@ -1,0 +1,139 @@
+header{
+    background-color:fuchsia;
+    color: white;
+    padding:1rem,0;
+    text-align: center;
+}
+
+ 
+
+ body,h1,h2,p,ul,li,a{  
+   margin: 0;
+   padding:0 ;
+    list-style: none;
+    text-decoration: none;
+}
+ul,li{
+    color: black;
+    background-color: deeppink;
+}
+#h{     color:white; 
+    background-color:black; 
+
+}
+p{
+    text-align: left;
+    
+}
+a{
+    color: black;
+    border-radius: 50%;
+}
+img{
+    border-radius: 50%;
+}
+.a{
+    color: black;
+    text-align: center;
+    background-color: darkgrey;
+    
+    
+
+}
+h2{
+    text-align:left;
+    color: black;
+}
+body{
+     height: 1.6;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color:pink;
+    color: black;
+}
+
+nav{
+    background-color:deeppink;
+    color: white;
+}
+nav ul{
+    display:flex;
+    justify-content: center;
+}
+nav ul li{
+    margin:0.1rem;
+}
+nav ul li a{
+    color:white;
+    padding: 0.5rem 1rem;
+    display:block;
+}
+main{
+    padding: 1rem;
+}
+main section{
+    /* background-color:royalblue;
+    color: WHITE; */
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 10px;a
+}
+#p{
+    background-color:skyblue;
+    color:white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+#lovei{
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    border-radius: 50%;
+}
+
+#komii{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    border-radius: 50%;
+    position:relative 50px;
+}
+
+#namei{
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    position:relative 50px ;
+    border-radius: 50%;
+}
+
+#horii{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    position:relative 50px;
+    border-radius: 50%;
+}
+
+#hearti{
+    display: flex;
+    float: left;
+    justify-content: space-between;
+    position:relative 50px;
+    border-radius: 50%;
+    
+}
+
+#voicei{
+    display: flex;
+    float: right;
+    justify-content: space-between;
+    position:relative 50px;
+    border-radius: 50%;
+}
+
+.next{
+    /* background-color: hotpin; */
+    color: navy;
+    border-radius: 0px;
+}

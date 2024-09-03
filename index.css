@@ -1,0 +1,69 @@
+header{
+    text-align: center;
+    background-color: black;
+    color: snow;
+}
+h2{
+    display: inline;
+}
+div{
+    display: inline;
+}
+ul,li,a{  
+    margin: 0;
+    padding:0 ;
+     list-style: none;
+     text-decoration: none;
+ }
+ ul,li{
+     color: black;
+     background-color: black;
+ }
+ #h{     color:white; 
+     background-color:black; 
+ 
+ }
+
+     
+ a{
+     color: black;
+ }
+
+     
+     
+ 
+ 
+ h2{
+     text-align:center;
+     color: black;
+ }
+ body{
+      height: 1.6;
+     font-family:'Times New Roman', Times, serif;      
+     background-color:gray;
+     color: white;
+ }
+ 
+ nav{
+     background-color:dodgerblue;
+     color: white;
+ }
+ nav ul{
+     display:flex;
+     justify-content: center;
+ }
+ nav ul li{
+     margin:0.1rem;
+ }
+ nav ul li a{
+     color:white;
+     padding: 0.5rem 1rem;
+     display:block;
+ }
+
+ #p{
+    background-color: white;
+    color: navy;
+    text-align: center;
+    border-radius: 0px;}
+
